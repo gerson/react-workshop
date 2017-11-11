@@ -1,0 +1,20 @@
+.header {
+    padding-left: 15px;
+    background-color: black;
+    color: white;
+    link: white;
+}
+
+a:link {
+    color: cornflowerblue;
+}
+
+a:visited {
+    color: cornflowerblue;
+}
+
+.menu {
+    margin-left: 5px;
+    text-align: left;
+}
+
